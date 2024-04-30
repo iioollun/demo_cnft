@@ -1,0 +1,34 @@
+{
+  "name": "VTX 789DA #A12",
+  "symbol": "789DA",
+  "description": "LIVE TOUR IN HO CHI MINH",
+  "background_color": "000000",
+  "external_url": "https://vtix.vn",
+  "image": "https://lh3.googleusercontent.com/pw/ADCreHcoLlfpwjKFZGkHHOb9JbFO5zYRJm1-2zVmPDNAcZ8fRBTJQo8FAnloni9x7fOnAVxPYuEoZ-di2aNfRn7V2qvkZaCyTzSVwFJljtp2pY6454ltcgchFliZezrS_qFfq0rCqu8S9LNsuP8e320jBjXu=w1344-h1900-s-no",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "LIVE TOUR IN HO CHI MINH"
+    },
+    {
+      "trait_type": "Zone",
+      "value": "A"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "A12"
+    },
+    {
+      "trait_type": "Email",
+      "value": "ping.to.8888@gmail.com"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Thi Dao"
+    },
+    {
+      "trait_type": "Event Time",
+      "value": "2024-12-31T10:15:04+07:00"
+    }
+  ]
+}
