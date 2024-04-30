@@ -1,0 +1,25 @@
+{
+  "name": "VTIX Collection Demo",
+  "symbol": "VTCD",
+  "description": "VTIX Collection Demo Description",
+  "image": "https://staging.vtix.vn/event/brand-review-tour/brand-review-tour.jpg",
+  "external_url": "https://staging.vtix.vn/event/",
+  "attributes": [
+    {
+      "trait_type": "EVENT",
+      "value": "VTIX Collection Demo"
+    },
+    {
+      "trait_type": "Show Round",
+      "value": "Sa, 11 May 2024, 07:30"
+    },
+    {
+      "trait_type": "Venue",
+      "value": "Vinacacao & HUM restaurant"
+    },
+    {
+      "trait_type": "Public Sale",
+      "value": "Fr, 03 May 2024, 11:00"
+    }
+  ]
+}
