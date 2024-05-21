@@ -2,8 +2,8 @@
   "name": "CA 2024 Collection",
   "symbol": "CA24",
   "description": "Concert CÁ 2024",
-  "image": "https://staging.vtix.vn/event/ca-2024/ca-2024.jpg",
-  "external_url": "https://staging.vtix.vn/en/event/ca-2024",
+  "image": "https://vtix.vn/event/ca-2024/ca-2024.jpg",
+  "external_url": "https://vtix.vn/en/event/ca-2024",
   "attributes": [
     {
       "trait_type": "EVENT",
