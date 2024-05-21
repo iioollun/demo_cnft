@@ -1,0 +1,25 @@
+{
+  "name": "CA 2024 Collection",
+  "symbol": "CA24",
+  "description": "Concert CÁ 2024",
+  "image": "https://staging.vtix.vn/event/ca-2024/ca-2024.jpg",
+  "external_url": "https://staging.vtix.vn/en/event/ca-2024",
+  "attributes": [
+    {
+      "trait_type": "EVENT",
+      "value": "Concert CÁ 2024"
+    },
+    {
+      "trait_type": "Show Round",
+      "value": "Mo, 30 Dec 2024, 11:15"
+    },
+    {
+      "trait_type": "Venue",
+      "value": "District 10 Cultural Center"
+    },
+    {
+      "trait_type": "Public Sale",
+      "value": "Sa, 12 Aug 2023, 10:00"
+    }
+  ]
+}
