@@ -1,0 +1,34 @@
+{
+  "name": "CA24 CAT3R #J-R01",
+  "symbol": "C4JR01",
+  "description": "Concert CÁ 2024 - CAT1R - #J-R01",
+  "background_color": "000000",
+  "external_url": "https://vtix.vn/en/event/ca-2024",
+  "image": "https://lh3.googleusercontent.com/pw/AP1GczNu0lBSyghe5_SsyM9GqtDWxmkoxwcSUu-vHvbZpbHP0Bk1neU-f_Z0NataCgbdnL4sKdMAOCuMe92rnULx-WcPam1aCvLGuTcndW5pQ5VmuWONnVYOOQFRWim57Z9rt77Yqfp3PSwiMIy5cvSaReHf=w500-h708-s-no-gm",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Concert CÁ 2024"
+    },
+    {
+      "trait_type": "Zone",
+      "value": "R"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "J-R01"
+    },
+    {
+      "trait_type": "Email",
+      "value": "ping.to.8888@gmail.com"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Thi Dao"
+    },
+    {
+      "trait_type": "Event Time",
+      "value": "2024-12-31T10:15:04+07:00"
+    }
+  ]
+}
